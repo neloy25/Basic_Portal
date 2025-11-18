@@ -1,0 +1,7 @@
+Student Intoduction
+----------------------
+Name: kh
+Department: geo
+Institution: az
+Faculty: sc
+City: bg

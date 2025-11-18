@@ -1,0 +1,7 @@
+Student Intoduction
+----------------------
+Name: khalid
+Department: geo
+Institution: azizul
+Faculty: science
+City: bogura
